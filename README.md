@@ -61,9 +61,9 @@ Download the latest version of python, you can either use IDLE or VS code.<br>
 Get Pip in CMD and download all the Libraries/packages/modules mentioned in requirements.<br>
 <br>
 GroqCloud Setup-<br>
-   \t go to [https://console.groq.com/login] and Log in<br>
-   go to [https://console.groq.com/keys] and create an API key<br>
-   go to [https://console.groq.com/playground] and select a LLM model<br>
+   1) go to [https://console.groq.com/login] and Log in<br>
+   2) go to [https://console.groq.com/keys] and create an API key<br>
+   3) go to [https://console.groq.com/playground] and select a LLM model<br>
 <br>
 Copy the python code (Main_Script.py) from this repository and save it in a folder<br>
 <br>
