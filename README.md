@@ -24,20 +24,21 @@ Query Handling – Converts user questions into vectors and finds the most relev
 Answer Generation – Uses an LLM (Llama 4 Scout 17B 16E) to generate an answer based on retrieved context.
 
 ## Requirements
+<br>
 The project is built using the following Libraries/packages/modules in python:
-
+<br>
 streamlit<br>
-groq
-faiss-cpu
-numpy
-pandas
-pdfplumber
-python-docx
-python-pptx
-easyocr
-sentence-transformers
-openpyxl
-
+groq<br>
+faiss-cpu<br>
+numpy<br>
+pandas<br>
+pdfplumber<br>
+python-docx<br>
+python-pptx<br>
+easyocr<br>
+sentence-transformers<br>
+openpyxl<br>
+<br>
 I have used ***GroqCloud*** which is an *cloud-based*, *open-source* Platfrom which provide ***API Keys*** various ***Large Language Models*** (LLMs) for free.
 I have choosen ***Llama 4 Scout 17B 16E*** as my LLM model for this project.
 
