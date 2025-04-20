@@ -10,10 +10,14 @@ It uses streamlit module in python and streamlit cloud integrated with a github 
 
 ### Features
 
-📄 Multi-format Document Support – Upload PDF, DOCX, PPTX, XLSX, PNG, JPG, CSV, JSON, TXT
-🤖 AI-Powered Q&A – Ask any question related to the ingested content
-📚 Contextual Answers – Answers supported with source references only
-🌐 Web Interface – Easy-to-use frontend interaction 
+📄 Multi-format Document Support – Upload PDF, DOCX, PPTX, XLSX, PNG, JPG, CSV, JSON, TXT <br>
+<br>
+🤖 AI-Powered Q&A – Ask any question related to the ingested content <br>
+<br>
+📚 Contextual Answers – Answers supported with source references only <br>
+<br>
+🌐 Web Interface – Easy-to-use frontend interaction <br>
+<br>
 
 ### How it Works
 
