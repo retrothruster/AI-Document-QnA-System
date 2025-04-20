@@ -48,15 +48,21 @@ easyocr<br>
 sentence-transformers<br>
 openpyxl<br>
 <br>
-I have used ***GroqCloud*** which is an *cloud-based*, *open-source* Platfrom which provide ***API Keys*** various ***Large Language Models*** (LLMs) for free.
-I have choosen ***Llama 4 Scout 17B 16E*** as my LLM model for this project.
+I have used GroqCloud which is an cloud-based, open-source Platfrom which provide API Keys various Large Language Models (LLMs) for free.<br>
+I have choosen Llama 4 Scout 17B 16E as my LLM model for this project.<br>
 
 ## To-Do / Future Enhancements
+<br>
+Due to time constraint, I was unable to add following features-<br>
+<br>
+link crawler<br>
+processing images within document of another format<br>
+<br>
 
 ## Acknowledgements 
-[chat_GPT](https://chatgpt.com/)
-[Youtube](https://www.youtube.com/)
-
+[chat_GPT](https://chatgpt.com/)<br>
+[Youtube](https://www.youtube.com/)<br>
+<br>
 ## Contact
-***Smail-*** md24b033@smail.iitm.ac.in
+Smail- md24b033@smail.iitm.ac.in
 
