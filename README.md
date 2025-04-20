@@ -58,11 +58,17 @@ I have choosen Llama 4 Scout 17B 16E as my LLM model for this project.<br>
 2) Get Pip in CMD and download all the Libraries/packages/modules mentioned in requirements.<br>
 <br>
 3) GroqCloud Setup-<br>
-   go to  [GrowCloud_Login](https://console.groq.com/login/)  and Log in<br>
-   go to [GroqCloud_keys](https://console.groq.com/keys/) and create an API key<br>
-   go to [GroqCloud_Playground](https://console.groq.com/playground/) and select a LLM model<br>
+   go to (https://console.groq.com/login and Log in<br>
+   go to (https://console.groq.com/keys and create an API key<br>
+   go to (https://console.groq.com/playground and select a LLM model<br>
 <br>
-4)
+4) Copy the python code (Main_Script.py) from this repository and save it in a folder<br>
+<br>
+5) Use the previously generated API key and paste it at its designated place in code<br>
+<br>
+6) Run the code, after few seconds, it will ask for file_path, now you are good to go!<br>
+<br>
+7) Make sure that the file you want to load is present in the root directory of the folder same as your python code folder<br>
 
    
 ## To-Do / Future Enhancements
