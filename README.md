@@ -56,22 +56,22 @@ I have choosen Llama 4 Scout 17B 16E as my LLM model for this project.<br>
 ## Procedure for running it Locally
 <br>
 
-1) Download the latest version of python, you can either use IDLE or VS code.<br>
+Download the latest version of python, you can either use IDLE or VS code.<br>
 <br>
-2) Get Pip in CMD and download all the Libraries/packages/modules mentioned in requirements.<br>
+Get Pip in CMD and download all the Libraries/packages/modules mentioned in requirements.<br>
 <br>
-3) GroqCloud Setup-<br>
-   go to (https://console.groq.com/login and Log in<br>
-   go to (https://console.groq.com/keys and create an API key<br>
-   go to (https://console.groq.com/playground and select a LLM model<br>
+GroqCloud Setup-<br>
+   \t go to [https://console.groq.com/login] and Log in<br>
+   go to [https://console.groq.com/keys] and create an API key<br>
+   go to [https://console.groq.com/playground] and select a LLM model<br>
 <br>
-4) Copy the python code (Main_Script.py) from this repository and save it in a folder<br>
+Copy the python code (Main_Script.py) from this repository and save it in a folder<br>
 <br>
-5) Use the previously generated API key and paste it at its designated place in code<br>
+Use the previously generated API key and paste it at its designated place in code<br>
 <br>
-6) Run the code, after few seconds, it will ask for file_path, now you are good to go!<br>
+Run the code, after few seconds, it will ask for file_path, now you are good to go!<br>
 <br>
-7) Make sure that the file you want to load is present in the root directory of the folder same as your python code folder<br>
+Make sure that the file you want to load is present in the root directory of the folder same as your python code folder<br>
 
    
 ## To-Do / Future Enhancements
