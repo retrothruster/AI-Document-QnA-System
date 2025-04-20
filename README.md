@@ -26,7 +26,7 @@ Answer Generation – Uses an LLM (Llama 4 Scout 17B 16E) to generate an answer 
 ## Requirements
 The project is built using the following Libraries/packages/modules in python:
 
-streamlit
+streamlit<br>
 groq
 faiss-cpu
 numpy
