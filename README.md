@@ -36,6 +36,7 @@ Answer Generation – Uses an LLM (Llama 4 Scout 17B 16E) to generate an answer 
 <br>
 The project is built using the following Libraries/packages/modules in python:
 <br>
+<br>
 streamlit<br>
 groq<br>
 faiss-cpu<br>
@@ -53,6 +54,8 @@ I have choosen Llama 4 Scout 17B 16E as my LLM model for this project.<br>
 <br>
 
 ## Procedure for running it Locally
+<br>
+
 1) Download the latest version of python, you can either use IDLE or VS code.<br>
 <br>
 2) Get Pip in CMD and download all the Libraries/packages/modules mentioned in requirements.<br>
