@@ -50,7 +50,21 @@ openpyxl<br>
 <br>
 I have used GroqCloud which is an cloud-based, open-source Platfrom which provide API Keys various Large Language Models (LLMs) for free.<br>
 I have choosen Llama 4 Scout 17B 16E as my LLM model for this project.<br>
+<br>
 
+## Procedure for running it Locally
+1) Download the latest version of python, you can either use IDLE or VS code.<br>
+<br>
+2) Get Pip in CMD and download all the Libraries/packages/modules mentioned in requirements.<br>
+<br>
+3) GroqCloud Setup-<br>
+   go to [GrowCloud_Login](https://console.groq.com/login) and Log in<br>
+   go to [GroqCloud_keys](https://console.groq.com/keys) and create an API key<br>
+   go to [GroqCloud_Playground](https://console.groq.com/playground) and select a LLM model<br>
+<br>
+4)
+
+   
 ## To-Do / Future Enhancements
 <br>
 Due to time constraint, I was unable to add following features-<br>
