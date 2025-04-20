@@ -5,7 +5,7 @@
 This project was built for the participation of ***Team Vanilla*** in the ***AI Tool Development Hackathon, sponsored by Mando***.<br>
 I have built a ***General-Purpose Document Question Answering System***<br>
 It can ingest documents in a wide range of formats and accurately answer user's questions based on Doc's content.<br>
-This Project is built using python in VS code as IDE<br>
+This Project is built using python in visual studio code as IDE<br>
 It uses streamlit module in python and streamlit cloud integrated with a github Repository for hosting the website<br>
 
 ### Features
