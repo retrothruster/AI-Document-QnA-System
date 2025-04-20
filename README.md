@@ -58,7 +58,7 @@ I have choosen Llama 4 Scout 17B 16E as my LLM model for this project.<br>
 2) Get Pip in CMD and download all the Libraries/packages/modules mentioned in requirements.<br>
 <br>
 3) GroqCloud Setup-<br>
-   go to [GrowCloud_Login](https://console.groq.com/login/) and Log in<br>
+   go to  [GrowCloud_Login](https://console.groq.com/login/)  and Log in<br>
    go to [GroqCloud_keys](https://console.groq.com/keys/) and create an API key<br>
    go to [GroqCloud_Playground](https://console.groq.com/playground/) and select a LLM model<br>
 <br>
