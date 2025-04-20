@@ -21,11 +21,16 @@ It uses streamlit module in python and streamlit cloud integrated with a github 
 
 ### How it Works
 
-Document Ingestion – The bot loads the uploaded docs and seperate it in chunks
-Embedding Generation – Converts the document text into vector representations using Sentence Transformers
-Indexing – Stores embeddings in a vector database that is FAISS
-Query Handling – Converts user questions into vectors and finds the most relevant document chunks.
-Answer Generation – Uses an LLM (Llama 4 Scout 17B 16E) to generate an answer based on retrieved context.
+Document Ingestion – The bot loads the uploaded docs and seperate it in chunks.<br>
+<br>
+Embedding Generation – Converts the document text into vector representations using Sentence Transformers.<br>
+<br>
+Indexing – Stores embeddings in a vector database that is FAISS.<br>
+<br>
+Query Handling – Converts user questions into vectors and finds the most relevant document chunks.<br>
+<br>
+Answer Generation – Uses an LLM (Llama 4 Scout 17B 16E) to generate an answer based on retrieved context.<br>
+<br>
 
 ## Requirements
 <br>
