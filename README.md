@@ -69,6 +69,8 @@ Copy the python code (Main_Script.py) from this repository and save it in a fold
 <br>
 Use the previously generated API key and paste it at its designated place in code<br>
 <br>
+You can also change the model of the LLM in the code, the default model is Llama 4 Scout 17B 16E<br>
+<br>
 Run the code, after few seconds, it will ask for file_path, now you are good to go!<br>
 <br>
 Make sure that the file you want to load is present in the root directory of the folder same as your python code folder<br>
@@ -76,9 +78,9 @@ Make sure that the file you want to load is present in the root directory of the
    
 ## To-Do / Future Enhancements
 <br>
-Due to time constraint, I was unable to add following features-<br>
+I was unable to add following features-<br>
 <br>
-link crawler<br>
+link crawler, It was bugging the output<br>
 processing images within document of another format<br>
 <br>
 
