@@ -74,6 +74,8 @@ You can also change the model of the LLM in the code, the default model is Llama
 Run the code, after few seconds, it will ask for file_path, now you are good to go!<br>
 <br>
 Make sure that the file you want to load is present in the root directory of the folder same as your python code folder<br>
+<br>
+If you want to run it on a website use the code app.py present in this repository along with the main_script.py code<br>
 
    
 ## To-Do / Future Enhancements
